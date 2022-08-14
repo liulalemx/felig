@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Felig</title>
+    <link rel="stylesheet" href="index.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"
+      integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <script src="render.js" defer></script>
+  </head>
+
+  <body>
+    <header class="main-header">
+      <div class="settings"><i class="fa-solid fa-gear fa-xl"></i></div>
+    </header>
+    <section class="main-section">
+      <div class="hero">
+        <h1>Felig</h1>
+        <p>Amharic search Engine</p>
+      </div>
+      <div class="section-inner">
+        <div class="fileSearch">
+          <form class="searchForm">
+            <button type="submit" class="todo-button">
+              <i class="fa-solid fa-magnifying-glass"></i>
+            </button>
+            <input class="searchBar" type="text" title="Search" />
+          </form>
+          <div class="filePicker">
+            <i class="fa-solid fa-file-lines fa-4x"></i>
+            <input
+              class="custom-file-input"
+              type="file"
+              id="fileInput"
+              name="fileInput"
+              accept=".txt,.doc,.docx,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+              multiple
+            />
+            <p>or Drop Files here</p>
+          </div>
+          <div class="searchResults">
+            <ul class="search-list"></ul>
+          </div>
+        </div>
+        <div class="recentSearch"></div>
+      </div>
+    </section>
+    <footer></footer>
+  </body>
+</html>
