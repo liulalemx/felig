@@ -11,12 +11,12 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
-    <script src="render.js" defer></script>
+    <script type="module" src="render.js" defer></script>
   </head>
 
   <body>
     <header class="main-header">
-      <div class="settings"><i class="fa-solid fa-gear fa-xl"></i></div>
+      <div class="settings"><p>🧐</p></div>
     </header>
     <section class="main-section">
       <div class="hero">
@@ -47,7 +47,13 @@
             <ul class="search-list"></ul>
           </div>
         </div>
-        <div class="recentSearch"></div>
+        <div class="recentSearch">
+          <div id="dropdown" class="dropdown">
+            <strong class="dropdown-label">
+              <h2><i class="fa-solid fa-clock-rotate-left"></i> History</h2>
+            </strong>
+          </div>
+        </div>
       </div>
     </section>
     <footer></footer>

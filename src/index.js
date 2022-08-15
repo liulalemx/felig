@@ -1,22 +1,12 @@
 const { app, BrowserWindow, ipcMain } = require("electron");
 const path = require("path");
 const similarity_checker = require("./similarity_checker");
-const sayHi = require("./hi");
 
 // Handle creating/removing shortcuts on Windows when installing/uninstalling.
 // eslint-disable-next-line global-require
 if (require("electron-squirrel-startup")) {
   app.quit();
 }
-
-ipcMain.handle("say_hello", async (event, name) => {
-  let utfName = Buffer.from(name, "utf-8").toString();
-  let a = await sayHi.sayHi(utfName);
-  console.log("3.handler:" + a);
-  console.log(path.join(__dirname, "../"));
-  return a;
-  // event.sender.send("say_hello", a);
-});
 
 ipcMain.handle("sim_check", async (event, filesList) => {
   const { default: felig_toolkit } = await import("felig-toolkit");
@@ -55,7 +45,7 @@ const createWindow = () => {
     height: 600,
     webPreferences: {
       preload: path.join(__dirname, "preload.js"),
-      // nodeIntegration: true,
+      nodeIntegration: true,
     },
   });
 

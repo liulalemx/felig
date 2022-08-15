@@ -3,6 +3,32 @@ const fileInput = document.querySelector(".custom-file-input");
 const queryInput = document.querySelector(".searchBar");
 const resultList = document.querySelector(".search-list");
 const header = document.querySelector(".main-header");
+const dropdown = document.getElementById("dropdown");
+
+// Recent history dropdown
+dropdown.addEventListener("click", toggle);
+
+const dropdownLabel = document.querySelector(".dropdown-label");
+dropdownLabel.addEventListener("click", fetchHist);
+
+const pp = document.createElement("div");
+function fetchHist() {
+  let history = JSON.parse(localStorage.getItem("history"));
+
+  if (history) {
+    pp.innerHTML = "";
+    history.forEach((entry) => {
+      const p = document.createElement("p");
+      p.innerText = entry;
+      pp.appendChild(p);
+    });
+  }
+}
+
+function toggle() {
+  // Expand items
+  dropdown.contains(pp) ? pp.remove() : dropdown.appendChild(pp);
+}
 
 // Event Listeners
 queryInput.addEventListener("keydown", async function (event) {
@@ -10,8 +36,18 @@ queryInput.addEventListener("keydown", async function (event) {
     event.preventDefault();
     // Enter key was hit
     if (queryInput.value && fileInput.files.length) {
-      console.log(queryInput.value);
-      console.log(fileInput.files.length);
+      // Update History
+      let history = JSON.parse(localStorage.getItem("history"));
+      if (history) {
+        if (history.length >= 5) history.shift();
+        history.push(queryInput.value);
+        localStorage.setItem("history", JSON.stringify(history));
+      } else {
+        let history = [];
+        history.push(queryInput.value);
+        localStorage.setItem("history", JSON.stringify(history));
+      }
+
       const curFiles = fileInput.files;
       const arrFiles = [];
 

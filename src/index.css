@@ -36,6 +36,10 @@ ul {
   position: relative;
 }
 
+.main-header p {
+  font-size: 3rem;
+}
+
 /* Main Section */
 .main-section {
   position: relative;
@@ -175,6 +179,15 @@ p {
   transform: scaleX(1);
   transform-origin: left center;
   transition-duration: 0.4s;
+}
+
+.recentSearch {
+  padding-left: 5rem;
+}
+
+.recentSearch .dropdown {
+  border: 2px solid #dcdcdc;
+  border-radius: 15px;
 }
 
 /* Alert window */
