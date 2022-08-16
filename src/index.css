@@ -70,6 +70,7 @@ ul {
 
 .section-inner {
   display: flex;
+  transform: translateX(15%);
 }
 
 .fileSearch {

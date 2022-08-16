@@ -1,5 +1,6 @@
 const { contextBridge, ipcRenderer } = require("electron");
 
 contextBridge.exposeInMainWorld("electronAPI", {
-  sim_check: (filesList) => ipcRenderer.invoke("sim_check", filesList),
+  sim_check: (filesList, query) =>
+    ipcRenderer.invoke("sim_check", filesList, query),
 });

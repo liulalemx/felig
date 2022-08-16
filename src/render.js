@@ -48,6 +48,9 @@ queryInput.addEventListener("keydown", async function (event) {
         localStorage.setItem("history", JSON.stringify(history));
       }
 
+      // clear precious search results
+      resultList.innerHTML = "";
+
       const curFiles = fileInput.files;
       const arrFiles = [];
 
@@ -55,7 +58,10 @@ queryInput.addEventListener("keydown", async function (event) {
         arrFiles.push(file.path);
       }
 
-      const res = await window.electronAPI.sim_check(arrFiles);
+      const res = await window.electronAPI.sim_check(
+        arrFiles,
+        queryInput.value
+      );
 
       //process
       res.forEach((file) => {

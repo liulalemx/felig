@@ -8,11 +8,10 @@ if (require("electron-squirrel-startup")) {
   app.quit();
 }
 
-ipcMain.handle("sim_check", async (event, filesList) => {
+ipcMain.handle("sim_check", async (event, filesList, query) => {
   const { default: felig_toolkit } = await import("felig-toolkit");
 
   const outputsPath = path.join(__dirname, "/outputs");
-  const query = "ፕሪሚየር ሊግ";
 
   // Operations on document
   felig_toolkit.indexer(filesList, outputsPath, "doc");
