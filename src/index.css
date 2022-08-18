@@ -12,6 +12,7 @@ body {
   font-family: "Familjen Grotesk", sans-serif;
   background: #2f3136;
   color: #fff;
+  overflow-x: hidden;
 }
 
 a {
@@ -36,8 +37,8 @@ ul {
   position: relative;
 }
 
-.main-header p {
-  font-size: 3rem;
+.main-header img {
+  max-width: 3rem;
 }
 
 /* Main Section */
@@ -69,8 +70,9 @@ ul {
 }
 
 .section-inner {
+  max-width: 100vw;
   display: flex;
-  transform: translateX(15%);
+  flex-wrap: wrap;
 }
 
 .fileSearch {
@@ -183,12 +185,17 @@ p {
 }
 
 .recentSearch {
-  padding-left: 5rem;
+  position: absolute;
+  right: 10%;
+  top: -5%;
 }
 
 .recentSearch .dropdown {
   border: 2px solid #dcdcdc;
   border-radius: 15px;
+}
+
+.recentSearch h2 {
   cursor: pointer;
 }
 
@@ -259,8 +266,6 @@ select {
 /* Search loading svg */
 svg {
   display: none;
-  /* max-width: 128px; */
-  /* max-height: 128px; */
 }
 .magnify {
   fill: #f8f8f8;
@@ -309,3 +314,5 @@ svg {
     transform: translateY(0);
   }
 }
+
+/* Media queries */
