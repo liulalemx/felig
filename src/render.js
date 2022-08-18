@@ -6,6 +6,7 @@ const header = document.querySelector(".main-header");
 const dropdown = document.getElementById("dropdown");
 const langSelector = document.querySelector(".langSelector");
 const elementsWithLang = document.querySelectorAll("[lang]");
+const searchSVG = document.querySelector("svg");
 
 // Recent history dropdown
 dropdown.addEventListener("click", toggle);
@@ -38,6 +39,9 @@ queryInput.addEventListener("keydown", async function (event) {
     event.preventDefault();
     // Enter key was hit
     if (queryInput.value && fileInput.files.length) {
+      // play loading svg
+      searchSVG.style.display = "block";
+
       // Update History
       let history = JSON.parse(localStorage.getItem("history"));
       if (history) {
@@ -50,9 +54,10 @@ queryInput.addEventListener("keydown", async function (event) {
         localStorage.setItem("history", JSON.stringify(history));
       }
 
-      // clear precious search results
+      // clear previous search results
       resultList.innerHTML = "";
 
+      // check similarity
       const curFiles = fileInput.files;
       const arrFiles = [];
 
@@ -66,6 +71,9 @@ queryInput.addEventListener("keydown", async function (event) {
       );
 
       //process
+      if (res) {
+        searchSVG.style.display = "none";
+      }
       res.forEach((file) => {
         var lastPart = file[0].replace(/\\$/, "").split("\\").pop();
         let li = document.createElement("li");
