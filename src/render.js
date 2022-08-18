@@ -4,6 +4,8 @@ const queryInput = document.querySelector(".searchBar");
 const resultList = document.querySelector(".search-list");
 const header = document.querySelector(".main-header");
 const dropdown = document.getElementById("dropdown");
+const langSelector = document.querySelector(".langSelector");
+const elementsWithLang = document.querySelectorAll("[lang]");
 
 // Recent history dropdown
 dropdown.addEventListener("click", toggle);
@@ -114,3 +116,16 @@ queryInput.addEventListener("keydown", async function (event) {
     }
   }
 });
+
+langSelector.addEventListener("change", setLang);
+
+function setLang(event) {
+  let curLang = langSelector.options[langSelector.selectedIndex].value;
+  elementsWithLang.forEach((ele) => {
+    if (ele.getAttribute("lang") === curLang) {
+      ele.style.display = "block";
+    } else {
+      ele.style.display = "none";
+    }
+  });
+}

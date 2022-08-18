@@ -189,6 +189,7 @@ p {
 .recentSearch .dropdown {
   border: 2px solid #dcdcdc;
   border-radius: 15px;
+  cursor: pointer;
 }
 
 /* Alert window */
@@ -219,6 +220,40 @@ p {
 
 .closebtn:hover {
   color: black;
+}
+
+/* Footer */
+footer {
+  position: relative;
+  display: flex;
+  justify-content: end;
+  padding: 1rem;
+  background-color: #202225;
+}
+
+select {
+  color: #fff;
+  background-color: #2f3136;
+  border: thin solid rgb(247, 247, 249);
+  border-radius: 4px;
+  display: inline-block;
+  font: inherit;
+  line-height: 1.5em;
+  padding: 0.5em 3.5em 0.5em 1em;
+
+  /* reset */
+
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+/* Amh lang attributes */
+[lang="amh"] {
+  display: none;
 }
 
 /* Animations  */

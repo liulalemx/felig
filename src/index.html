@@ -20,8 +20,10 @@
     </header>
     <section class="main-section">
       <div class="hero">
-        <h1>Felig</h1>
-        <p>Amharic search Engine</p>
+        <h1 lang="en">Felig</h1>
+        <h1 lang="amh">ፈልግ</h1>
+        <p lang="en">Amharic search Engine</p>
+        <p lang="amh">የአማርኛ መረጃ ፈላጊ</p>
       </div>
       <div class="section-inner">
         <div class="fileSearch">
@@ -41,7 +43,8 @@
               accept=".txt,.doc,.docx,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"
               multiple
             />
-            <p>or Drop Files here</p>
+            <p lang="en">or Drop Files here</p>
+            <p lang="amh">ወይም የፈለጉትን ፋይል እዚህ ያስቀምጡ</p>
           </div>
           <div class="searchResults">
             <ul class="search-list"></ul>
@@ -50,12 +53,22 @@
         <div class="recentSearch">
           <div id="dropdown" class="dropdown">
             <strong class="dropdown-label">
-              <h2><i class="fa-solid fa-clock-rotate-left"></i> History</h2>
+              <h2 lang="en">
+                <i class="fa-solid fa-clock-rotate-left"></i> Recent Searches
+              </h2>
+              <h2 lang="amh">
+                <i class="fa-solid fa-clock-rotate-left"></i> የፍለጋ ታሪክ
+              </h2>
             </strong>
           </div>
         </div>
       </div>
     </section>
-    <footer></footer>
+    <footer>
+      <select class="langSelector">
+        <option value="en" selected>English</option>
+        <option value="amh">ኣማርኛ</option>
+      </select>
+    </footer>
   </body>
 </html>
