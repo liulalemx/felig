@@ -71,6 +71,9 @@ function sim_checker(docWeightFilePath, queryWeightFilePath, corpusFilePath) {
         return b[1] - a[1];
       });
 
+      if (sortable.length > 20) {
+        return sortable.slice(0, 20);
+      }
       return sortable;
     } catch (error) {
       console.log("Error parsing JSON string:", error);
