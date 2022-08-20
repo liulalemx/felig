@@ -1,2874 +1,2253 @@
 {
-  "ሚቀትል": [
+  "ሀዋሣ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.004895083688043147
-    }
-  ],
-  "ውድድር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0
-    }
-  ],
-  "ኧምኧት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0
-    }
-  ],
-  "ኮትድኢቭዋር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.010613588174472027
-    }
-  ],
-  "ተጋጅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሚካሀድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "አፍሪካ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.010445758941449217
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ዋንችአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.024765039073768064
-    }
-  ],
-  "ማታሪያ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.021227176348944055
-    }
-  ],
-  "ቀሪ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ምድብ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.04245435269788811
-    }
-  ],
-  "ቸዋት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ዲራዘም": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "መደረግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ግር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.005222879470724608
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.009790167376086295
-    }
-  ],
-  "ክውአሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.006528599338405761
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0073426255320647215
-    }
-  ],
-  "ኮንፍኧድኧር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ካፍ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.028302901798592073
-    }
-  ],
-  "ታወቀ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ታሪያው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ራት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.010613588174472027
-    }
-  ],
-  "ደለደል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ኢትዮፕይአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0
-    }
-  ],
-  "ብህኧርአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.005222879470724608
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0050536717124937906
-    }
-  ],
-  "ቡድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.006528599338405761
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.007580507568740685
-    }
-  ],
-  "ዋሊያ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "መሥክኧር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.002611439735362304
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ወር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.006528599338405761
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ጊኒ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.010613588174472027
-    }
-  ],
-  "ቻው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሊያደርግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ቸዋታ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0
-    }
-  ],
-  "መጋብ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.017689313624120045
-    }
-  ],
-  "ዲጋገር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ደርግው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሦሥት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003917159603043456
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.004895083688043147
-    }
-  ],
-  "ከሠት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ኮቪድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ወረርሽን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ምክንይአት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.005222879470724608
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ኧል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003917159603043456
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.020214686849975162
-    }
-  ],
-  "ቀረ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ማይብ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ኢክኦንኦምኢይአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ማህብኧርአውኢ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ፖለቲካ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ቀውሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ከትልኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003917159603043456
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ቆይትው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ችግር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.002611439735362304
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ሥፕኦርት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.002611439735362304
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ቸምርኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.002611439735362304
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ትልልቅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ቀፍ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0037902537843703425
-    }
-  ],
-  "ፕርኦግራም": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ያዘል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ጊዝ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003917159603043456
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ከናወን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ዲሠረዝ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ደግምኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.017689313624120045
-    }
-  ],
-  "ዲራም": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ዘነጋ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.004895083688043147
-    }
-  ],
-  "አህኡን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ላይ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003917159603043456
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006317089640617237
-    }
-  ],
-  "ያሥክኧትኧል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሥሥኧንኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሥግአት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ጅምር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ባይህኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ነገሮ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ወደ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003917159603043456
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.009790167376086295
-    }
-  ],
-  "ቀድምኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0
-    }
-  ],
-  "መልክ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "መመለሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ቅንሥቅአሥኧው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ጀምርኧው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "የሁለት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሢካሀድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ቆይ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ዘርፍ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ተቀሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ዚህ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0
-    }
-  ],
-  "ኧርኧት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.006528599338405761
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.004895083688043147
-    }
-  ],
-  "ህግኡርአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ኢግር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ቅውአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ባለፍ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.004895083688043147
-    }
-  ],
-  "ካመር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ተናጋጅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.010613588174472027
-    }
-  ],
-  "ከናወ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "አንድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ቆይትአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ድርኧሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.014151450899296036
-    }
-  ],
-  "ማከናወ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ኧቅድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "መጀመር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ታወሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ሠሞን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ባደረግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.010613588174472027
-    }
-  ],
-  "መረጃ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ዳሥትአውኧቅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ቀደ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.002611439735362304
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ሢል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ዞት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ነበረ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ፕርኦግራ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.005222879470724608
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ሠን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.010613588174472027
-    }
-  ],
-  "ሸጋግርኦት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ህንን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ቸዋታዎ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ፕርኦግአርአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ውት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ደርግኦብ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ግብሥሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ማላ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ጋር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.005222879470724608
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ደልድሎ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሁለት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ማለት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "መዳው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.014151450899296036
-    }
-  ],
-  "ሥትአድኢይ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.017689313624120045
-    }
-  ],
-  "ውችኢ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "መቻወት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ገደድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሸንፍኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "አልተበቀ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ቅሥቃሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ማሸነፍ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "መምርአት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ገን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ኧግኧድአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሊያከና": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ነበር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.004895083688043147
-    }
-  ],
-  "ደርግኧው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ቸዋታው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ማድርኧግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ምንአልባት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ኧትኦት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ጎረበት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ገር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.005222879470724608
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0025268358562468953
-    }
-  ],
-  "ዲቻወት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ፈረደ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሽግሽግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ማሻያ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ግንባታ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "የተደረገለት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሚገን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0037902537843703425
-    }
-  ],
-  "አድኢሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.002611439735362304
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "በባ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0025268358562468953
-    }
-  ],
-  "ባሥቅኧምኧት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሥትአንዳርድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ተናቆ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "አግኧልግልኦት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሁነታ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0
-    }
-  ],
-  "ሊኖር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሚችል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "መግልኧሥሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ጋታሚ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0025268358562468953
-    }
-  ],
-  "ልንተቀም": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ደሚገባ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ሚናገር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ተፉ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ምትገን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሥክ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.014151450899296036
-    }
-  ],
-  "የምድብ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ራተ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሚያደርግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ምሥተ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ባል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ቀን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ደረግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ሥትኧንአግአጅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ካሀድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ፋላሚ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሚለዩ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "መቸረሻ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0
-    }
-  ],
-  "ነሀሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.005222879470724608
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ከረ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "መሆን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0
-    }
-  ],
-  "ችምር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ህርአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ትሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ገሥሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ታውቅው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003917159603043456
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ታንዝአንኢይአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሠት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0
-    }
-  ],
-  "ሻምፕኢይኦንሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሊግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.024475418440215738
-    }
-  ],
-  "ማለፍ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሚደረግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ምሥራቅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "መከለ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ፍርኢክአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ሠካፋ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ሚሣተፍ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ንግድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ባን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ጋታሚው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ታወቅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ዛንዝኢብአር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ዋሪየሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ቡርንዲው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ፎፊላ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ሩዋንድአው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ኧኧሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ኪጋሊ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.007075725449648018
-    }
-  ],
-  "ደሚቻወት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.002611439735362304
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ተቻወተ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ህውአልአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ሁለተ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ቡርንዲ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.003537862724824009
-    }
-  ],
-  "ዲሁ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ፈደረ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የአፍሪካ ዋንጫ ማጣሪያ ቀሪ የምድብ ጨዋታ ተራዘመ.txt": 0.001305719867681152
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    }
-  ],
-  "ኦርኢግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ሻምፕኢይኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.04450218684530244
-    }
-  ],
-  "ካፈል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ለቲክሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.020539470851678048
-    }
-  ],
-  "ዛር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ረቡ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ሀምል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0025268358562468953
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0073426255320647215
-    }
-  ],
-  "ምሽት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ዲሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ገብ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ደምቅኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ከረም": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ቡድን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.007580507568740685
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ቦል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ኧር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ማረፊያ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ሢደርሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ደማቅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.010269735425839024
-    }
-  ],
-  "ቀበል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.017116225709731706
-    }
-  ],
-  "ሚደረግልኧት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ባህል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሚኒሥትኧር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.010269735425839024
-    }
-  ],
-  "ማክሥኧንኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0073426255320647215
-    }
-  ],
-  "ጋዘታ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "መግልኧችአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ተደረገለት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ነጋታው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መረት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ጎዳን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ለያይ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መሪዎች": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ከተማው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ነዋሪ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሚደረግል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ገልሥሠው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ለት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.017116225709731706
-    }
-  ],
-  "ሻምፕኢይኦንአው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "አይኡት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ገድል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሚመት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ደሚደረግል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ገለሥሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ህዝቡ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ካረፈ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሥፍራ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ነሥትኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ጎዳና": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ዲያደርግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ትርኢ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ቅርብው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሀሙሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ተዋት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ክፍት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ውትኦብሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሆኖ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሚንሽኧርአሽኧር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሢሆ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "መሥቅኧል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ደባይ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ቀባብ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ደረግልኧት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ብልው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ወርቅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ብር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መዳልይአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.017116225709731706
-    }
-  ],
-  "ድምር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መያዝ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "አምኧርኢክአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "አሥር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መዳልይ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ደረጃ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ማተናቀቅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ችልው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.013692980567785366
-    }
-  ],
-  "ዘንድሮ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.010269735425839024
-    }
-  ],
-  "አትኧንአቅኧቅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ፍት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ድንአቅኦት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "አግኧን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "አትለቲክሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.013692980567785366
-    }
-  ],
-  "ታሪ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ማሥፍኧር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ደብዝዞ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ውትኧት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.010269735425839024
-    }
-  ],
-  "ዳግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ዲንሥኧርአርአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ቻለ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መሆኑ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ወሥትው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሻምፕኢይኦንአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ማናቀቁ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ርቅኧት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ብርኧውኧሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ልይ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ድርጎት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ወሠን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ውሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ልምድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ማሣካት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.010269735425839024
-    }
-  ],
-  "ቻል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ቀታይ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0025268358562468953
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ቡዳፐሥት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሚሠናዳው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ፓሪሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ሚዘጋጅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ኦልኢምፒ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.010269735425839024
-    }
-  ],
-  "ወዲህ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ሥፍአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሠነቅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ለቶ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ማሣ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ምብዛ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ትትአውኧቅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መትር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ኧንአክኧል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ማግንኧት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መቻልውአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.020887728459530026
     }
   ],
   "መጀመርይአ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ኢትዮፕይአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.013003785878188314
     },
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ፍሥሣም": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ደርሥአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ድርኢብ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ወልትኧጅኢ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ዲፕልኦምአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ደትልቅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሥክኧት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ነሥትው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ባሻገር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ቃረብ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ቁትር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.0028233843488356717
     },
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.009790167376086295
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.012969921852463867
     }
   ],
-  "አትለት": [
+  "ወታት": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ምርቻ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ያይዝኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ንትር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ማያት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ኧንአድኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ለመደ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ኧልታን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ወልድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ቀል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ኮሥትር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ዶክትኧር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ህልፈት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ውሥት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ሥርአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0025268358562468953
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.011920137055005957
     },
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "መትፍአት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ደጋሚ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሚነሣ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ቶኪዮ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መልሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "በልግረድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "በት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0025268358562468953
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.0028233843488356717
     },
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.008646614568309244
     }
   ],
-  "ከንይአ": [
+  "ኦልኢምፒ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.09399477806788512
     }
   ],
-  "ሞሪሸየሥ": [
+  "ቸዋታ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.04177545691906005
     }
   ],
-  "ታንዝአንያ": [
+  "ታዘጋጅ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
     }
   ],
-  "ኦርኢግኧን": [
+  "ኦልኢምፒከ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "በላይ": [
+  "ኮሚት": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.010269735425839024
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.020887728459530026
     }
   ],
-  "ተናቀቅ": [
+  "ማካይ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ሥክኧትአምአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ጊዘ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ማሣለፍ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መላ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ኢትዮፕይአውኢይአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ድምሥሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ደሥት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ገለሥሥኡ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ፈተረበት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ገሪት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ገባች": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ፖሊቲካ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ፍትአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ቢሆ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ኧርኧፍት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "አግኧንኧች": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ፈተረ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "በርክአት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ምሥክር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ክሥተት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሆንው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ፖርትላንድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ካቢ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ትውልድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሥፍራው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሉካ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ኧንአድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ኢንክውአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ደሥ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መርህ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
     },
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0073426255320647215
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
     }
   ],
-  "ግብር": [
+  "ሚዘጋጀ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "መጀመርይአው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
     },
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0073426255320647215
-    }
-  ],
-  "ማሣያ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ምን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ክውአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ኧች": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ህዝብ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "መፋፈል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ማምትአት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ደሚች": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ፍንች": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "አይ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "በርክአትአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሣትፍኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሢያደርግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሥሥኦትአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ውድድርኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "አንሥሥአር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ቅርብ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "ኧምኧትአት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ወዲ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.010269735425839024
-    }
-  ],
-  "ያመዘነ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መምትአት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "አሥአብኢ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ጉዳይ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "የተነሣ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ጊዚያት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ወንድ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.006846490283892683
-    }
-  ],
-  "መታን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ኧምኧህኦን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ታይትው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ያሽቅኦልኧቅኦል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መታ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ሚል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0073426255320647215
-    }
-  ],
-  "ትንአት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0012634179281234476
-    },
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.0024475418440215737
-    }
-  ],
-  "ደሚሻ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "አትዮፕይአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ደሆነ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ብዝኡህኧን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ተየት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ዳያዘናጋ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "መዘጋጀት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ተቅሥዋው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የኢትዮጵያ አትሌቲክስ ቡድን ዛሬ አዲስ አበባ ይገባል.txt": 0.0034232451419463415
-    }
-  ],
-  "ፕርኢምኢይኧር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.02652656904972646
-    }
-  ],
-  "ክሥኢይኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.02652656904972646
-    }
-  ],
-  "ማህብኧር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.03315821131215808
-    }
-  ],
-  "ጀመር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ብልኦ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.01326328452486323
-    }
-  ],
-  "ሚተበቀ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "በትክኢንግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ኧትአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.02652656904972646
-    }
-  ],
-  "ማውትአት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.019894926787294844
-    }
-  ],
-  "ከወነ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ሥሥህፍኧት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ባከናወ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ሣምንት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.019894926787294844
-    }
-  ],
-  "ድርግው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ዘመ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.01326328452486323
-    }
-  ],
-  "መከናወን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ወታ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.01326328452486323
-    }
-  ],
-  "ባይህኦን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ሢነገር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ሥን": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ሥርኧት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ቸምርአ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ኧት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ረጋግትው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "መቸመር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ዝቅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.01326328452486323
-    }
-  ],
-  "ድርኧግ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ትርአት": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ተበቀ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "አክሢዮ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ኪያጅ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ክፍል": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ሠይፍ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "የተደረገ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "መናገር": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "መዘገብ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ወታው": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
-    }
-  ],
-  "ሀዋሣ": [
-    {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.010416666666666666
     }
   ],
   "ተማ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.04642149583702131
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.01020408163265306
     }
   ],
-  "ካደግ": [
+  "ከወን": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ገታፎ": [
+  "ክልሎች": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ገዳድ": [
+  "ከተማ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ቻወት": [
+  "ተደር": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ባህር": [
+  "ሚካፈሉ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ዳር": [
+  "ሣታፊው": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "አድኧግ": [
+  "ሚሣተፍ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ኢትዮ": [
+  "ኮሚተው": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሃይማኖታዊና ፖለቲካዊ ይዘት ያላቸው መልዕክቶች የታገዱበት ፕሪሚየር ሊጉና የኮሚቴው ውሳኔ154.txt": 0.1
     }
   ],
-  "ኧልኧክትርኢክ": [
+  "ታውቅው": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.015665796344647518
     }
   ],
-  "ሚያሥትኧንአግድ": [
+  "ቦት": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
     }
   ],
-  "መከላከያ": [
+  "ሠን": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.019894926787294844
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
     }
   ],
-  "ክልኧብ": [
+  "ሚከናወ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.019894926787294844
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
     }
   ],
-  "ላለፍ": [
+  "ቸዋታው": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.015665796344647518
     }
   ],
-  "ርትአት": [
+  "ሥፕኦርት": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.01326328452486323
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.020887728459530026
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.01020408163265306
     }
   ],
-  "ሢተራ": [
+  "ሆኑ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ሥይአም": [
+  "ባልህኦን": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ሥይአምኧው": [
+  "ሚካሀድ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0021672976463647194
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.0014116921744178358
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.004323307284154622
     }
   ],
-  "መች": [
+  "ገለሥሥ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.01326328452486323
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ደሚቀትል": [
+  "ሢሆ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
     }
   ],
-  "መራር": [
+  "ሙል": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ማሥትአውኧቅ": [
+  "ወቺው": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ሀድይአ": [
+  "ደሚሸፈ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ሆሣ": [
+  "ገልሥሥው": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.007832898172323759
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
     }
   ],
-  "መድ": [
+  "ዚህ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.007832898172323759
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
     }
   ],
-  "ቅድኡሥ": [
+  "ሚሊዮ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ብር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.01020408163265306
+    }
+  ],
+  "መመደብ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ቀናት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ጋዘታ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "መግልኧችአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ሠት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0021672976463647194
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.0014116921744178358
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.008646614568309244
+    }
+  ],
+  "ኦልኧምፒ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ውድድር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.007832898172323759
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.03741496598639456
+    }
+  ],
+  "ኧይነት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ማካሀድ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ፍልአግኦት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ቢኖረው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "አትለቲክሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ኢግር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ክውአሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.007832898172323759
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "መረብ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ኢጅ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ብሥክልኧት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ቦክሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ጅምናሥትኢክ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ወርልድ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ተክውአንዶ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ዲሁ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ውችኢ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ቸዝ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ውሽ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ወሥንኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ከናወን": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.01020408163265306
+    }
+  ],
+  "ብልው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "መነሻ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሀሣብ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ትር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ትትኧልአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ጉባኧው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ወሠነ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ግብሥሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.015665796344647518
+    }
+  ],
+  "ተናጋጅ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "አፍሪካ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.007832898172323759
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ሚወክል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሥፕኦርቶ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "መምርኧት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ታሥብኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "መዘጋጀት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ፕርኧዝኢድአንት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ሸብር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ወልድ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
   "ጊዮርግኢሥ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ፋሢል": [
+  "ዶክትኧር": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "አድአምአ": [
+  "ብርአርተው": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
     }
   ],
-  "ድችአ": [
+  "ካቢ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ወልቅኢት": [
+  "ኦልኢምፒክ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "አርባ": [
+  "መንፍኧሥ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ምንች": [
+  "ማሥርኧሥሥ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "ድርኧድ": [
+  "አግኧር": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ግንባታ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ላይ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.013054830287206266
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.023809523809523808
+    }
+  ],
+  "ትልቅ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ዲወት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ማሥችአል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሠትው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ረድት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ተኪ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ዲሆን": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሠብ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ገር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.01020408163265306
+    }
+  ],
+  "ወክል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ዲዳደር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ረድ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ለት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.017006802721088437
+    }
+  ],
+  "ናግርኧው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ቀደ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ታዳጊ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ፕርኦጅኧክት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "መመዘ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ኧድም": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.015665796344647518
+    }
+  ],
+  "ማችብኧርበር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ለመደ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "መሆን": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ክርክር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሢፈተር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሥትኧውአል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ለይ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ደግምኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ኧልታኖች": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "መራር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ውትኧት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.010416666666666666
+    }
+  ],
+  "ትክኡርኧት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ድርኧግ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "መል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ችግር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "መንሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ደርግኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ነሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "አንሥሥአር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "መፍትአት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ትምህርት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "በት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ወርድኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ደሚገባ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሚሣተፉት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሥፕኦርተን": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ትክክል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ዲሣተፉ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ዳይክኧሥኧት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ህክም": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ቡድ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "የሠራ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ደሚገን": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ኧድመይ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሥክ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ኧምኧት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0021672976463647194
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.0028233843488356717
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.004323307284154622
+    }
+  ],
+  "ሣተፍ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሻምፕኢይኦንአው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "መዳሊያ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ገንዝኧብ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ሽልማት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.01020408163265306
+    }
+  ],
+  "ኖር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "የሁለት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ዲካሀድ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "መወሠኑ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ያያዘ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ጊዝ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ወደ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ርክአትአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ሥፕኦርታ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ክንውንኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ያሥትኧንአግኧድ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ምትገን": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሽር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ጉድ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "መጀመር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ተማዋ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ማሥውአብ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ግድኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሚቀበል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሽምአግለዎች": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ህዝብ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ገልግሎት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሚሠት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሆተል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ዝግጅት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "የተደረግ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ንትኢብአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሥሥኧግአይ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ቱክ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ፕርኦፍኧሥኧር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ሪፖርትኧር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ንትኢብአው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ተያ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ተም": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ማሠናዳት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.020887728459530026
+    }
+  ],
+  "ኧድል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ማግንኧት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ቱሪዝ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ማኧክኧል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ሚያደረጋት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ፈትርኦልኧት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ቀታይ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0010836488231823597
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.0014116921744178358
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.004323307284154622
+    }
+  ],
+  "ኧርኧት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0010836488231823597
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.0028233843488356717
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.004323307284154622
+    }
+  ],
+  "ልምአትኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ምምአፍአት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ተተናቀቅ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ማተናቀቅ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ኧቅድ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "መያዝ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ክልኧው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ወራት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ለቲክሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ሻምፕኢይኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "ሻምፕኢይኦንአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
   "ሢዳማ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
     }
   ],
-  "መረዳት": [
+  "ማሥትኧንአግኧድ": [
     {
-      "C:\\Users\\user\\Desktop\\npm-test\\test\\backend\\corpus\\የፕሪሚየር ሊጉ የቀጣይ ዓመት ጨዋታ መርሐ ግብር ይፋ ተደረገ.txt": 0.006631642262431615
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.010443864229765013
+    }
+  ],
+  "መች": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ታወሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.010416666666666666
+    }
+  ],
+  "ግንታ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ባለመቻል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ላልፍኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሊሠት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ችልው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ማሥንአድአት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ኧምኧችአል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ምክንይአት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ነሣው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "አግኧርኢት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ነበር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ቶር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ቀድምኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    }
+  ],
+  "ሚችል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሥትአድኢይ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.010416666666666666
+    }
+  ],
+  "ማራች": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ለሉ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ማሣየት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሚያነሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ዘንድሮ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ነሀሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.0026109660574412533
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.010416666666666666
+    }
+  ],
+  "ፓጉመ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሐዋሳ የመጀመርያውን የኢትዮጵያ ወጣቶች የኦሊምፒክ ጨዋታን ታዘጋጃለች55.txt": 0.005221932114882507
+    }
+  ],
+  "ሀይምአንኦትአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሃይማኖታዊና ፖለቲካዊ ይዘት ያላቸው መልዕክቶች የታገዱበት ፕሪሚየር ሊጉና የኮሚቴው ውሳኔ154.txt": 0.2
+    }
+  ],
+  "ፖለቲካ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሃይማኖታዊና ፖለቲካዊ ይዘት ያላቸው መልዕክቶች የታገዱበት ፕሪሚየር ሊጉና የኮሚቴው ውሳኔ154.txt": 0.2
+    }
+  ],
+  "ዘት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሃይማኖታዊና ፖለቲካዊ ይዘት ያላቸው መልዕክቶች የታገዱበት ፕሪሚየር ሊጉና የኮሚቴው ውሳኔ154.txt": 0.2
+    }
+  ],
+  "መለክት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሃይማኖታዊና ፖለቲካዊ ይዘት ያላቸው መልዕክቶች የታገዱበት ፕሪሚየር ሊጉና የኮሚቴው ውሳኔ154.txt": 0.2
+    }
+  ],
+  "ታገዱ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሃይማኖታዊና ፖለቲካዊ ይዘት ያላቸው መልዕክቶች የታገዱበት ፕሪሚየር ሊጉና የኮሚቴው ውሳኔ154.txt": 0.2
+    }
+  ],
+  "ፕርኢምኢይኧር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሃይማኖታዊና ፖለቲካዊ ይዘት ያላቸው መልዕክቶች የታገዱበት ፕሪሚየር ሊጉና የኮሚቴው ውሳኔ154.txt": 0.2
+    }
+  ],
+  "ሊጉ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሃይማኖታዊና ፖለቲካዊ ይዘት ያላቸው መልዕክቶች የታገዱበት ፕሪሚየር ሊጉና የኮሚቴው ውሳኔ154.txt": 0.2
+    }
+  ],
+  "ውሥአን": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሃይማኖታዊና ፖለቲካዊ ይዘት ያላቸው መልዕክቶች የታገዱበት ፕሪሚየር ሊጉና የኮሚቴው ውሳኔ154.txt": 0.2
+    }
+  ],
+  "ሁለተ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.02040816326530612
+    }
+  ],
+  "ከሮድ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.047619047619047616
+    }
+  ],
+  "ጎዳ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.061224489795918366
+    }
+  ],
+  "ሩቻ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.04081632653061224
+    }
+  ],
+  "ጉራግ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.02040816326530612
+    }
+  ],
+  "ሁለት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.010416666666666666
+    }
+  ],
+  "ምህረት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "መከናወ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ጀመር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ወልቅኢት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.02040816326530612
+    }
+  ],
+  "ከናወ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ቸምርኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ቡታጅርአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ማህብኧር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.04081632653061224
+    }
+  ],
+  "ሠማ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.02040816326530612
+    }
+  ],
+  "ብሽሮ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.034013605442176874
+    }
+  ],
+  "ሀሙሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ኪሎ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "መትር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ሀምል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ረድትኧው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ኧውቅ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ካፋይ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ደሚሆን": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ኡንኢቭኧርሢቲ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ልምአት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "የከተም": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ርውአች": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ደሚካፈል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ተል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ሸናፊው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ዘጋጀ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "አንደ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ሚወታ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ሦሥት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.03125
+    }
+  ],
+  "መዘጋጀቱን": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "አትኧቅአልአይ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ተቅሥው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ኧምናው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ሣትፍ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ሸናፊ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.010416666666666666
+    }
+  ],
+  "መሆ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "አውሮፓ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "መካፈል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.003401360544217687
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.010416666666666666
+    }
+  ],
+  "መቻላቸው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ኧል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.01020408163265306
+    },
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.010416666666666666
+    }
+  ],
+  "ቀፍ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ደረጃ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ተበቀ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ዘንድ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ውሥት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ውች": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "መት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ባለሙይ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ርቅኧት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ልክኧት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ደተደረገለት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ተቀሠ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ካፈል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ሠኧት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "መገምግ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ሚችልኡ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ደሚፈትር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ገልሥሠው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ተለያይ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ማናጀር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ደሚታደም": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ተበቅ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "መላ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ማድርኧግ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ውት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ወትንኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "መንቅኧሥአቅኧሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ቅድኦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ኮቪድ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ወረርሽን": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ኧኧምግአግአት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ማሣካት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "አድኢሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "በባ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ዳብ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ሠነ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ማከናወ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ቢያተናቅቅ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ለያይ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ሣካ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "መቅርኧት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ገልሥሦ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ዲሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ዳል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ኧምኧትአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ባሻገር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ዞን": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.02040816326530612
+    }
+  ],
+  "ለቶ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ማፍርአት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.02040816326530612
+    }
+  ],
+  "አትለት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "መገንብአት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "መታቀዱ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "መግልኧችአው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ተቁምው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ሙክትአር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ድርኢሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ወቅት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ድንቅ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ሠለሞ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ባረጋ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.013605442176870748
+    }
+  ],
+  "ሥርአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ሊያከና": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "መወተን": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ሥትኧው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "አሥኧልታን": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ዱአምላ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ልህ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ትልአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ሀይል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "መሠረተ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ሁለተኛው የኬሮድ የጎዳና ሩጫ በጉራጌ ዞን ሁለት ከተሞች ይከናወናል55.txt": 0.006802721088435374
+    }
+  ],
+  "ዙር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.0625
+    }
+  ],
+  "ድል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.041666666666666664
+    }
+  ],
+  "መቺው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ኮሥትአርኢክአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ዋንችአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.041666666666666664
+    }
+  ],
+  "ሚያበቃ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ማታሪያ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ያሸነፈ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ደርሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ትንት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ሥትኢይአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ኧርብ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ታህሥአሥ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "አአብ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ቢቂላ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ባላጋራዋ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ቦትሥዋና": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ተናግድአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ሸንፍ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ሣምንት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ባደረገ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ቸዋት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "መርትአት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ድምር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "መዘገበ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ብቅትውአት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ግር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.041666666666666664
+    }
+  ],
+  "ኮንፍኧድኧር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ካፍ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ባወታው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "መርህ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ግብር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ጋታሚ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ታንዝአንኢይአ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ቡሩንድኢ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ዋናው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ሉሢ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ወታል": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ባለፍ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ህድአርየክፍለ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ህግኡር": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ሠካፋ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ማንሥአት": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ፎቶው": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ድርአግኢ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ቻዋች": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "አይ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ፎቶ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
+    }
+  ],
+  "ፈደረ": [
+    {
+      "C:\\Users\\user\\Desktop\\reporter\\ለሦስተኛ ዙር በድል የበቃው የኢትዮጵያ ወጣት ሴቶች ቡድን143.txt": 0.020833333333333332
     }
   ]
 }

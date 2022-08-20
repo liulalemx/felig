@@ -1,6 +1,7 @@
 const { app, BrowserWindow, ipcMain, Menu } = require("electron");
 const path = require("path");
 const similarity_checker = require("./similarity_checker");
+const fs = require("fs");
 
 // Handle creating/removing shortcuts on Windows when installing/uninstalling.
 // eslint-disable-next-line global-require
@@ -14,12 +15,14 @@ ipcMain.handle("sim_check", async (event, filesList, query) => {
   const outputsPath = path.join(__dirname, "/outputs");
 
   // Operations on document
-  felig_toolkit.indexer(filesList, outputsPath, "doc");
-  felig_toolkit.weigh_terms(
-    path.join(outputsPath, "/docIndexFile.json"),
-    outputsPath,
-    "doc"
-  );
+  if (!fs.existsSync(path.join(outputsPath, "/docIndexFile.json"))) {
+    felig_toolkit.indexer(filesList, outputsPath, "doc");
+    felig_toolkit.weigh_terms(
+      path.join(outputsPath, "/docIndexFile.json"),
+      outputsPath,
+      "doc"
+    );
+  }
 
   //Operations on query
   felig_toolkit.indexer(query, outputsPath, "query");
@@ -64,6 +67,8 @@ app.on("ready", function () {
   const template = [];
   const menu = Menu.buildFromTemplate(template);
   Menu.setApplicationMenu(menu);
+  const outputsPath = path.join(__dirname, "/outputs");
+  fs.unlinkSync(path.join(outputsPath, "/docIndexFile.json"));
 });
 
 // Quit when all windows are closed, except on macOS. There, it's common
