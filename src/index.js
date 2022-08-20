@@ -1,4 +1,4 @@
-const { app, BrowserWindow, ipcMain, Menu } = require("electron");
+const { app, BrowserWindow, ipcMain, Menu, shell } = require("electron");
 const path = require("path");
 const similarity_checker = require("./similarity_checker");
 const fs = require("fs");
@@ -8,6 +8,10 @@ const fs = require("fs");
 if (require("electron-squirrel-startup")) {
   app.quit();
 }
+
+ipcMain.handle("open_file", async (event, filePath) => {
+  shell.openPath(filePath);
+});
 
 ipcMain.handle("sim_check", async (event, filesList, query) => {
   const { default: felig_toolkit } = await import("felig-toolkit");
@@ -68,7 +72,9 @@ app.on("ready", function () {
   const menu = Menu.buildFromTemplate(template);
   Menu.setApplicationMenu(menu);
   const outputsPath = path.join(__dirname, "/outputs");
-  fs.unlinkSync(path.join(outputsPath, "/docIndexFile.json"));
+  if (fs.existsSync(path.join(outputsPath, "/docIndexFile.json"))) {
+    fs.unlinkSync(path.join(outputsPath, "/docIndexFile.json"));
+  }
 });
 
 // Quit when all windows are closed, except on macOS. There, it's common

@@ -79,6 +79,9 @@ queryInput.addEventListener("keydown", async function (event) {
         let li = document.createElement("li");
         li.classList.add("searchResult");
         li.innerHTML = `<div class="fileDisplay"><h3>${lastPart}</h3><p>${file[0]}</p></div><span class="counter" data-target=${file[1]}>0</span>%`;
+        li.addEventListener("click", async function handleClick(event) {
+          const res = await window.electronAPI.open_file(file[0]);
+        });
         resultList.appendChild(li);
       });
 
