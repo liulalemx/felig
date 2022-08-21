@@ -64,7 +64,9 @@ function sim_checker(docWeightFilePath, queryWeightFilePath, corpusFilePath) {
 
       let sortable = [];
       for (var file in rankedDocuments) {
-        sortable.push([file, rankedDocuments[file]]);
+        if (rankedDocuments[file] > 0) {
+          sortable.push([file, rankedDocuments[file]]);
+        }
       }
 
       sortable.sort(function (a, b) {
