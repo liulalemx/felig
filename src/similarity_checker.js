@@ -59,7 +59,6 @@ function sim_checker(docWeightFilePath, queryWeightFilePath, corpusFilePath) {
           rank = 0;
         }
         rankedDocuments[document] = Math.round(rank * 100);
-        // rankedDocuments[document] = rank;
       });
 
       let sortable = [];
