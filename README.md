@@ -1,5 +1,5 @@
 <p align="center">
-  <img height=200 src="./src/assets/AppPreview.jpg" alt="Felig logo" />
+  <img height=300 src="./src/assets/AppPreview.jpg" alt="Felig logo" />
 </p>
 <h1 align="center">Felig</h1>
 <p align="center">
